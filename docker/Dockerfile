@@ -1,4 +1,4 @@
-FROM alpine
+FROM alpine:3
 MAINTAINER Angus Lees <gus@inodes.org>
 COPY controller /usr/local/bin/
 
